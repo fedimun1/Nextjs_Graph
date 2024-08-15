@@ -36,6 +36,5 @@ src/
     ├── BarChart.tsx
     └── LineChart.tsx
 
-![Screenshot from 2024-08-15 09-38-06](https://github.com/user-attachments/assets/75008bfd-2583-4a1b-985a-80bd08bed34c)
 
-    
+    ![Screenshot from 2024-08-15 09-38-06](https://github.com/user-attachments/assets/75008bfd-2583-4a1b-985a-80bd08bed34c)
