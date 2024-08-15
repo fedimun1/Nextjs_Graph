@@ -131,7 +131,7 @@ useEffect(() => {
 
   return (
     <main className="flex min-h-screen gri flex-col items-center justify-between p-24 max-w-full"  >
-   <h1 className="flex items-center text-5xl font-extrabold dark:text-white">Code With<span className="bg-blue-100 text-blue-800 text-2xl font-semibold me-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-2">FEDI</span></h1>
+   <h1 className="flex items-center text-5xl font-extrabold dark:text-white">Code  With <span className="bg-blue-100 text-blue-800 text-2xl font-semibold me-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-2">FEDI</span></h1>
     <div className=" grid grid-cols-2 gap-4 w-full mt-20">
     <div>
     <h1>Sales Data</h1>
